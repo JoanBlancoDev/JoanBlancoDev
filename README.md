@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy [Joan Blanco] 👋
 
-<!--
-**JoanBlancoDev/JoanBlancoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer enfocado en el rendimiento y la experiencia de usuario.
 
-Here are some ideas to get you started:
+### 🚀 Stack Tecnológico
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Proyectos Principales
+- **EchoTask AI**: Conversión de notas de voz a tickets técnicos con IA.
+- **Music Landing Page**: Experiencia web optimizada para eventos.
+
+### 📊 Estadísticas
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dark)

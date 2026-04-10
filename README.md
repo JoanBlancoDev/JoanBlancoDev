@@ -1,4 +1,4 @@
-# <h1 align="center"><b>Hi there! , I'm Joan Blanco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there! , I'm Joan Blanco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
@@ -21,6 +21,7 @@
 **Backend & Infrastructure**
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -63,15 +64,6 @@
   - Developing end-to-end web applications with a focus on SaaS architecture.
   - Implementing AI integrations for business process automation.
 - **Frontend & CMS Specialist** - Expert handling of WordPress, PHP, and Elementor for high-converting landing pages.
-
-
-<br>
-
-## 📜 Certifications
-- **Fullstack Web Development** - [Institution Name]
-- **Advanced TypeScript & React Patterns** - [Institution Name]
-- **AI Integration for Developers** - [Institution Name]
-
 
 <br>
 

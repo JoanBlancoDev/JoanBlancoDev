@@ -37,6 +37,8 @@
 
 <br>
 
+##  🚀 Creative Showcase (Projects)
+
 #### 🎙️ [EchoTask AI](https://github.com/JoanBlancoDev/echo-task-ia)
 > **AI-Powered Task Automation**
 > A Micro-SaaS that converts unstructured voice notes into structured technical tickets using **Gemini AI**.
@@ -60,10 +62,22 @@
 <br>
 
 ## 💼 Experience
-- **Fullstack Web Developer** | Independent / Freelance (Present)
-  - Developing end-to-end web applications with a focus on SaaS architecture.
-  - Implementing AI integrations for business process automation.
-- **Frontend & CMS Specialist** - Expert handling of WordPress, PHP, and Elementor for high-converting landing pages.
+
+### 🚀 Fullstack Developer | UX Verse Studio (Freelance)
+**April 2025 – Present** 
+- **Backend Architecture**: Developed robust modules and endpoints using **NestJS**, ensuring a scalable and efficient server-side architecture for management systems.
+- **End-to-End Management**: Managed the complete data flow from NestJS backends to **React** interfaces, optimizing overall backoffice performance.
+- **Data Synchronization**: Implemented optimized data fetching and caching solutions using **Tanstack Query** to sync external services with the frontend.
+- **Technical Leadership**: Led architectural decision-making to ensure seamless integration between business logic and user interfaces.
+
+<br>
+
+### 🛠️ Fullstack Developer - QA | VIBES VZLA
+**October 2025 – January 2026** 
+- **API Development**: Designed and built robust REST modules using **Node.js** and **Express** for efficient service communication.
+- **Interface Optimization**: Developed and maintained an evolutionary Backoffice with **Next.js**, enhancing administrative user experience.
+- **Quality Assurance**: Implemented E2E automated testing with **Playwright**, significantly reducing production errors in critical system flows.
+- **Stability**: Ensured ecosystem stability through **TypeScript** development and rigorous manual application testing.
 
 <br>
 

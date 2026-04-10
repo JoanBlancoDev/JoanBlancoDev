@@ -36,22 +36,25 @@
 
 <br>
 
-## 🚀 Creative Showcase (Projects)
-
-#### 🎙️ [EchoTask AI](https://your-link.com)
+#### 🎙️ [EchoTask AI](https://github.com/JoanBlancoDev/echo-task-ia)
 > **AI-Powered Task Automation**
-> A Micro-SaaS that leverages **Gemini 1.5 Flash** to convert unstructured voice notes into professional technical tickets. 
-> *Stack: Next.js, Supabase, Google AI.*
+> A Micro-SaaS that converts unstructured voice notes into structured technical tickets using **Gemini AI**.
+> *Stack: Next.js 15, React 19, Bun, Supabase, Prisma, Redis.*
 
-#### ⚡ [VIBES Backoffice](https://your-link.com)
-> **High-Performance Admin Panel**
-> A modern dashboard focused on real-time data management and sleek UI components using **shadcn/ui**.
-> *Stack: React, TypeScript, Tailwind.*
+#### 🏢 [Loopstudios Landing Page](https://github.com/JoanBlancoDev/loopstudios-landing-page-main)
+> **Modern Interactive Interface**
+> Premium landing page focused on visual fidelity and performance, featuring adaptive menus and complex grids.
+> *Stack: Astro, CSS, GSAP, Mobile First.*
 
-#### 🎵 [Loopstudios & Festival Landing](https://your-link.com)
-> **Premium Web Experiences**
-> Pixel-perfect landing pages with advanced CSS layouts and high SEO optimization scores.
-> *Stack: HTML, Sass, JavaScript.*
+#### 🎨 [Portfolio 2026](https://github.com/JoanBlancoDev/portfolio-joan-blanco)
+> **High-Performance Personal Site**
+> Mobile-first professional portfolio using Island Architecture for optimized performance and smooth UX.
+> *Stack: Astro, React 19, Framer Motion, Tailwind CSS.*
+
+#### 🎸 [Rock & EDM Festival](https://github.com/JoanBlancoDev/festival-music-landing-page)
+> **Event-Driven Multimedia Site**
+> Dynamic music festival landing page featuring interactive galleries and optimized multimedia asset management.
+> *Stack: SASS, JavaScript, Gulp, WebP Integration.*
 
 <br>
 
@@ -73,7 +76,7 @@
 <br>
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joan-blanco-dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-blanco-dev)
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-joan-blanco.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joanblanco.dev@gmail.com)
 
